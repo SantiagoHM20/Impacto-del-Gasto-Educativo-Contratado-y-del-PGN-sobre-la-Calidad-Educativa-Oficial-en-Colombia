@@ -1,0 +1,4 @@
+Submuestra_Municipal,N_Municipios,N_Obs,Coef_LogGastoEdu_PC_lag1,SE_Cluster_Mpio,P_Valor,R2_Within,Pct_Gasto_SECOP_Registrado,Mediana_Evaluados_Mpio,P10_Evaluados_Mpio
+1. Total Municipios Oficiales (N=1.102),1094,5457,-0.0022,0.0601,0.9702,-0.0066,100.0,134.0,37.0
+2. Solo Capitales Departamentales (DIVIPOLA % 1000 == 1),32,160,-0.4089,0.4762,0.3922,-0.2033,68.59,134.0,37.0
+3. Municipios No Capitales (DIVIPOLA % 1000 != 1),1062,5297,0.0374,0.0524,0.4748,-0.0016,31.41,134.0,37.0

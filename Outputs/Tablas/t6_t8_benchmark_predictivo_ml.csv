@@ -1,0 +1,7 @@
+Algoritmo,RMSE_RollingOrigin_SinSECOP,RMSE_RollingOrigin_ConSECOP,Delta_RMSE_RollingOrigin,SkillScore_vs_SinSECOP_pct,RMSE_GroupKFold_SinSECOP,RMSE_GroupKFold_ConSECOP,Delta_RMSE_GroupKFold,IC95_Boot_DeltaRMSE_GKF
+Baseline 1: Paseo Aleatorio (ΔY = 0),3.748,3.748,0.0,0.0,3.32,3.32,0.0,"[0.000, 0.000]"
+Baseline 2: Reversión a la Media AR(1),3.917,3.917,0.0,0.0,2.917,2.917,0.0,"[0.000, 0.000]"
+Ridge (α=10),3.524,3.479,-0.045,1.28,2.726,2.735,0.009,"[-0.096, +0.114]"
+"ElasticNet (α=0.5, l1=0.5)",3.539,3.519,-0.02,0.56,2.778,2.756,-0.023,"[-0.037, -0.007]"
+"RandomForest (depth=3, leaf=8)",3.718,3.687,-0.03,0.81,2.767,2.776,0.009,"[-0.064, +0.066]"
+"GradientBoosting (depth=2, lr=0.05)",3.724,3.687,-0.036,0.97,2.796,2.821,0.025,"[-0.078, +0.131]"

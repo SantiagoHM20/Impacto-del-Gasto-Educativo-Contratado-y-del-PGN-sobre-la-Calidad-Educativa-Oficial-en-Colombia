@@ -1,0 +1,199 @@
+COD_DPTO,DPTO,ipm_depto,año
+5,Antioquia,15.7,2019
+8,Atlántico,14.9,2019
+11,Bogotá,7.1,2019
+13,Bolívar,26.9,2019
+15,Boyacá,12.8,2019
+17,Caldas,14.3,2019
+18,Caquetá,25.7,2019
+19,Cauca,24.0,2019
+20,Cesar,25.5,2019
+23,Córdoba,34.7,2019
+25,Cundinamarca,12.3,2019
+27,Chocó,42.3,2019
+41,Huila,18.3,2019
+44,La Guajira,48.8,2019
+47,Magdalena,31.6,2019
+50,Meta,19.1,2019
+52,Nariño,23.2,2019
+54,Norte de Santander,24.2,2019
+63,Quindío,10.2,2019
+66,Risaralda,11.1,2019
+68,Santander,12.4,2019
+70,Sucre,33.3,2019
+73,Tolima,15.2,2019
+76,Valle del Cauca,10.8,2019
+81,Arauca,23.3,2019
+85,Casanare,18.3,2019
+86,Putumayo,25.4,2019
+88,San Andrés y Providencia,8.2,2019
+91,Amazonas,35.6,2019
+94,Guainía,67.0,2019
+95,Guaviare,30.9,2019
+97,Vaupés,66.5,2019
+99,Vichada,72.2,2019
+5,Antioquia,14.9,2020
+8,Atlántico,14.1,2020
+11,Bogotá,7.5,2020
+13,Bolívar,28.1,2020
+15,Boyacá,11.7,2020
+17,Caldas,14.5,2020
+18,Caquetá,26.1,2020
+19,Cauca,28.2,2020
+20,Cesar,27.2,2020
+23,Córdoba,31.8,2020
+25,Cundinamarca,11.4,2020
+27,Chocó,49.0,2020
+41,Huila,23.4,2020
+44,La Guajira,51.7,2020
+47,Magdalena,33.4,2020
+50,Meta,14.1,2020
+52,Nariño,27.3,2020
+54,Norte de Santander,26.1,2020
+63,Quindío,12.9,2020
+66,Risaralda,13.1,2020
+68,Santander,12.5,2020
+70,Sucre,38.1,2020
+73,Tolima,19.0,2020
+76,Valle del Cauca,11.1,2020
+81,Arauca,26.1,2020
+85,Casanare,19.6,2020
+86,Putumayo,27.8,2020
+88,San Andrés y Providencia,11.9,2020
+91,Amazonas,39.0,2020
+94,Guainía,65.9,2020
+95,Guaviare,34.6,2020
+97,Vaupés,65.6,2020
+99,Vichada,75.6,2020
+5,Antioquia,14.3,2021
+8,Atlántico,15.5,2021
+11,Bogotá,5.7,2021
+13,Bolívar,26.8,2021
+15,Boyacá,10.9,2021
+17,Caldas,11.5,2021
+18,Caquetá,23.1,2021
+19,Cauca,18.6,2021
+20,Cesar,25.3,2021
+23,Córdoba,26.9,2021
+25,Cundinamarca,9.4,2021
+27,Chocó,36.0,2021
+41,Huila,17.5,2021
+44,La Guajira,48.7,2021
+47,Magdalena,32.4,2021
+50,Meta,14.9,2021
+52,Nariño,22.1,2021
+54,Norte de Santander,24.7,2021
+63,Quindío,10.9,2021
+66,Risaralda,10.7,2021
+68,Santander,13.3,2021
+70,Sucre,30.3,2021
+73,Tolima,16.6,2021
+76,Valle del Cauca,8.6,2021
+81,Arauca,26.8,2021
+85,Casanare,19.5,2021
+86,Putumayo,22.8,2021
+88,San Andrés y Providencia,7.0,2021
+91,Amazonas,25.7,2021
+94,Guainía,57.3,2021
+95,Guaviare,31.0,2021
+97,Vaupés,52.7,2021
+99,Vichada,64.8,2021
+5,Antioquia,10.7,2022
+8,Atlántico,10.2,2022
+11,Bogotá,3.8,2022
+13,Bolívar,19.4,2022
+15,Boyacá,9.6,2022
+17,Caldas,10.5,2022
+18,Caquetá,19.6,2022
+19,Cauca,18.3,2022
+20,Cesar,19.1,2022
+23,Córdoba,26.9,2022
+25,Cundinamarca,7.3,2022
+27,Chocó,36.8,2022
+41,Huila,13.3,2022
+44,La Guajira,42.9,2022
+47,Magdalena,23.0,2022
+50,Meta,11.3,2022
+52,Nariño,17.6,2022
+54,Norte de Santander,18.5,2022
+63,Quindío,10.0,2022
+66,Risaralda,10.0,2022
+68,Santander,10.4,2022
+70,Sucre,26.0,2022
+73,Tolima,10.5,2022
+76,Valle del Cauca,9.7,2022
+81,Arauca,22.6,2022
+85,Casanare,13.3,2022
+86,Putumayo,20.8,2022
+88,San Andrés y Providencia,8.8,2022
+91,Amazonas,27.9,2022
+94,Guainía,46.5,2022
+95,Guaviare,26.9,2022
+97,Vaupés,47.1,2022
+99,Vichada,75.4,2022
+5,Antioquia,9.5,2023
+8,Atlántico,12.0,2023
+11,Bogotá,3.6,2023
+13,Bolívar,18.4,2023
+15,Boyacá,9.9,2023
+17,Caldas,7.4,2023
+18,Caquetá,17.2,2023
+19,Cauca,15.8,2023
+20,Cesar,17.7,2023
+23,Córdoba,21.4,2023
+25,Cundinamarca,7.6,2023
+27,Chocó,37.4,2023
+41,Huila,11.9,2023
+44,La Guajira,42.6,2023
+47,Magdalena,21.4,2023
+50,Meta,12.9,2023
+52,Nariño,16.6,2023
+54,Norte de Santander,20.5,2023
+63,Quindío,7.5,2023
+66,Risaralda,11.8,2023
+68,Santander,9.8,2023
+70,Sucre,23.1,2023
+73,Tolima,12.9,2023
+76,Valle del Cauca,7.2,2023
+81,Arauca,22.8,2023
+85,Casanare,15.0,2023
+86,Putumayo,13.2,2023
+88,San Andrés y Providencia,5.0,2023
+91,Amazonas,25.4,2023
+94,Guainía,52.1,2023
+95,Guaviare,30.6,2023
+97,Vaupés,55.7,2023
+99,Vichada,65.4,2023
+5,Antioquia,10.9,2024
+8,Atlántico,9.5,2024
+11,Bogotá,5.4,2024
+13,Bolívar,15.6,2024
+15,Boyacá,6.9,2024
+17,Caldas,9.2,2024
+18,Caquetá,13.9,2024
+19,Cauca,14.0,2024
+20,Cesar,13.4,2024
+23,Córdoba,25.7,2024
+25,Cundinamarca,7.4,2024
+27,Chocó,33.9,2024
+41,Huila,10.9,2024
+44,La Guajira,39.3,2024
+47,Magdalena,19.2,2024
+50,Meta,10.4,2024
+52,Nariño,18.1,2024
+54,Norte de Santander,15.2,2024
+63,Quindío,7.4,2024
+66,Risaralda,9.5,2024
+68,Santander,6.8,2024
+70,Sucre,21.8,2024
+73,Tolima,12.6,2024
+76,Valle del Cauca,6.2,2024
+81,Arauca,17.7,2024
+85,Casanare,11.3,2024
+86,Putumayo,11.8,2024
+88,San Andrés y Providencia,6.0,2024
+91,Amazonas,15.6,2024
+94,Guainía,49.0,2024
+95,Guaviare,21.3,2024
+97,Vaupés,37.4,2024
+99,Vichada,70.2,2024

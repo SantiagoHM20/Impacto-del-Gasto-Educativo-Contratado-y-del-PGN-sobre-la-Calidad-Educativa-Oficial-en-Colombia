@@ -1,0 +1,9 @@
+año,n_filas_crudas,n_contratos_dedup,n_duplicados_eliminados,pct_secop_ii,valor_total_nominal_billones,decision_t0
+2019,1659522.0,1256147,403375.0,11.18,199.016,INCLUIDO (Ventana Válida)
+2020,1434611.0,1265208,169403.0,27.83,148.751,INCLUIDO (Ventana Válida)
+2021,1489357.0,1452330,37027.0,38.15,217.209,INCLUIDO (Ventana Válida)
+2022,1329498.0,1273396,56102.0,55.42,279.841,INCLUIDO (Ventana Válida)
+2023,1365315.0,831912,533403.0,100.0,332.35,INCLUIDO (Ventana Válida)
+2024,93662.0,93471,191.0,100.0,629.591,DESCARTADO (Descarga Truncada E3)
+2025,171.0,129,42.0,100.0,0.023,DESCARTADO (Descarga Truncada E3)
+2026,4056.0,4028,28.0,100.0,0.249,DESCARTADO (Descarga Truncada E3)

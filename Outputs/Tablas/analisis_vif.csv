@@ -1,0 +1,11 @@
+variable,vif,diagnostico
+const,1.26,Constante
+log_gasto_secop,1.19,Excelente (< 5)
+tiene_pae,1.32,Excelente (< 5)
+pct_conectividad,1.22,Excelente (< 5)
+tasa_desercion,2.84,Excelente (< 5)
+inv_idi_pct_pib,1.63,Excelente (< 5)
+ipm_depto,1.96,Excelente (< 5)
+pgn_tasa_ejecucion,2.99,Excelente (< 5)
+log_pgn_educacion,2.15,Excelente (< 5)
+dummy_2022,1.0,Excelente (< 5)

@@ -1,0 +1,9 @@
+Archivo,Existe,Tamaño_KB
+icfes_depurado.parquet,SÍ,242.8
+icfes_depurado_v2.parquet,SÍ,39.7
+secop_depurado.parquet,SÍ,121.7
+secop_departamental.parquet,SÍ,17.8
+pgn_departamental_consolidado.csv,SÍ,23.3
+dataset_maestro_v4.parquet,SÍ,84.6
+dataset_maestro_v4.csv,SÍ,116.9
+dataset_maestro_municipal_v4.parquet,SÍ,494.4

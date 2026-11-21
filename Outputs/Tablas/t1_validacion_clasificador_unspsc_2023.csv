@@ -1,0 +1,2 @@
+total_contratos_2023,TP_contratos,FP_contratos,FN_contratos,TP_valor,FP_valor,FN_valor,precision_contratos,recall_contratos,precision_valor_ponderada,recall_valor_ponderado
+815177,9116.0,15500.0,4971.0,2048899875047.2124,3947267336371.9893,838236666901.5305,37.03,64.71,34.17,70.97

@@ -1,0 +1,2 @@
+prueba,stat,t_stat,df,p_value,wooldridge_lead_coef,wooldridge_lead_pval,decision
+Mundlak CRE (1 gl sobre media departamental del tratamiento primario),0.255,0.505,1,0.6142720438608513,0.0342,0.9692,Efectos Fijos (TWFE) Preferido a priori por asignación compensatoria y heterogeneidad territorial

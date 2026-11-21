@@ -1,0 +1,4 @@
+Modelo,R2,R2_Ajustado,Delta_R2_vs_Base,Beta_SECOP_PC,SE_HC3,P_Valor
+1. Base Estructural (IPM + Cobertura + PGN 2019-2024),0.5856,0.5427,0.0,,,
+2. Base + SECOP Educativo Acumulado Per Cápita (2019-2023),0.5955,0.5377,0.0099,3.8986,5.3473,0.466
+3. Base + Desglose CAPEX vs Bienestar Acumulado (2019-2023),0.5971,0.5224,0.0115,2.2658,4.3188,0.5998
